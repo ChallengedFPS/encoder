@@ -69,5 +69,4 @@ if mode == "translate":
   for i in range(len(message)):
     for key, value in code.items():
       if value == message[i]:
-        print(key, end=' ')
-  time.sleep(100)
+        print(key, end=" ")
