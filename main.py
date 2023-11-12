@@ -1,7 +1,5 @@
 #goofy ahh message translater and encoder for minecraft
 
-import time
-
 code = {
     'A': 'e',
     'B': 'm',
